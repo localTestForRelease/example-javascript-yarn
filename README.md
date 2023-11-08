@@ -11,3 +11,4 @@ srcclr activate
 srcclr scan --url https://github.com/srcclr/example-javascript-yarn
 ```
 somechange1
+somechange pull
